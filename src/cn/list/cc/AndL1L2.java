@@ -3,8 +3,6 @@ package cn.list.cc;
 import java.util.LinkedList;
 import java.util.List;
 
-import javax.lang.model.type.IntersectionType;
-
 public class AndL1L2 {
 	public static void main(String[] args) {
 		List<Integer> L1 = new LinkedList<>();
